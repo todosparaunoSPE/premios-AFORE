@@ -20,7 +20,7 @@ st.subheader("Propuesta compartida para: Hazur Socconini")
 
 # Introducción
 st.markdown("""
-**CDMX a 3 de julio de 2024**
+**CDMX a 12 de julio de 2024**
 
 **Asunto: Oportunidad Única para Reconocer la Excelencia en la Industria de Pensiones**
 
