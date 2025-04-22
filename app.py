@@ -13,7 +13,7 @@ st.set_page_config(page_title="Premios de Pensiones de México", page_icon="🏆
 st.title("Premios de Pensiones de México")
 st.subheader("Reconociendo la excelencia en la industria de pensiones")
 
-st.subheader("Propuesta compartida para: Mtra. Marài Josè Martino Manzo")
+st.subheader("Propuesta compartida para: Mtra. Marìa Josè Martino Manzo")
 
 # Imagen
 #st.image("sergio.jpg", caption="Premios de Pensiones de México")
